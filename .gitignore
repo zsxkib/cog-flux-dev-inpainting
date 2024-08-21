@@ -1,3 +1,11 @@
+# Cog
+/checkpoints/*
+.cog
+*.png
+*.webp
+*.jpg
+*.jpeg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
